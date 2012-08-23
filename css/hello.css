@@ -1,1 +1,4 @@
-﻿body{margin:auto}
+﻿div.content{width:610px; margin:0 auto}
+img{width:600px}
+div.table{text-align:center}
+table{margin-left:auto;margin-right:auto}

@@ -1,10 +1,11 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+﻿?<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<link rel="stylesheet" href="../css/hello.css" type="text/css" />
 		<title>Hello, NIFTYCloud C4SA!</title>
 	</head>
+    <div class="content">
 	<body>
 		<h1>Hello, NIFTYCloud C4SA!</h1>
 <?php 
@@ -21,10 +22,11 @@ $str<br>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 </p>
-
-<h2>ニフティクラウドC4SAでできること<h2>
+EOF;
+?>
+      <h2>ニフティクラウドC4SAでできること</h2>
 <p>
-　ニフティクラウドC4SAは、 <span>サーバーからミドルウェアまで</span>をオンデマンドで提供している、<br>
+　ニフティクラウドC4SAは、 <strong>サーバーからミドルウェアまで</strong>をオンデマンドで提供している、<br>
 <strong>アプリケーションプラットフォーム</strong>です。
 </p>
 
@@ -56,8 +58,8 @@ $str<br>
 <p>
 　ニフティクラウドC4SAでは、以下のように多数の言語、フレームワーク、アプリケーションを<br>
 提供しており、今後もさまざまな環境をコンテクストとして提供する予定です。<br>
-
-<table>
+<div class="table">
+<table border="1">
 <caption>ニフティクラウドC4SAのコンテクスト一覧</caption>
 <tr>
 <th>コンテクストの分類</th><th>ニフティクラウドC4SAのコンテクスト</th>
@@ -72,7 +74,9 @@ $str<br>
 <td>アプリケーション</td><td>PukiWiki, WordPress, Concrete5, CandyCane</td>
 </tr>
 </table>
+
 (2012年7月31日時点、今後拡充予定)<br>
+</div>
 <br>
 <a href="https://github.com/NIFTYCloud-C4SA/support/wiki/%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89C4SA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E7%94%A8%E8%AA%9E%E9%9B%86">「コンテクスト」とは</a>
 
@@ -117,8 +121,6 @@ Gitとの連携にも対応しており、バージョン管理もしっかり�
 
 <a href="https://github.com/NIFTYCloud-C4SA/support/wiki/%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89C4SA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E7%94%A8%E8%AA%9E%E9%9B%86">「アプライアンス」とは</a>
 </p>
-EOF;
-
-?>
 	</body>
+  </div>
 </html>

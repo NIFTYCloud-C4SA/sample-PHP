@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<link rel="stylesheet" href="../css/hello.css" type="text/css" />
+		<link rel="stylesheet" href="./css/hello.css" type="text/css" />
 		<title>Hello, NIFTYCloud C4SA!</title>
 	</head>
     <div class="content">

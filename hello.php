@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<link rel="stylesheet" href="../css/hello.css" type="text/css" />
+		<link rel="stylesheet" href="./css/hello.css" type="text/css" />
 		<title>Hello, NIFTYCloud C4SA!</title>
 	</head>
     <div class="content">
@@ -35,7 +35,7 @@ EOF;
 　お客様の用途に合わせた最適なアプリケーション実行環境をワンクリックで構築できます。<br>
 　ニフティクラウドC4SAを用いることで、環境構築の時間を節約し、思いついたアイデアを<br>
 すぐ開発して形にし、インターネット上で公開することが可能です。<br>
-<img src="../img/select_context.png" alt="C4SAには様々なコンテクストがあります。">
+<img src="./img/select_context.png" alt="C4SAには様々なコンテクストがあります。">
 </p>
 
 <h3>インフラの管理・運用を意識せずに利用可能です</h3>
@@ -51,7 +51,7 @@ EOF;
 <p>
 　名前の入力や環境の選択などの簡単な操作のみで、<br>
 ログインから環境構築までの数ステップを完了し、環境構築することができます。<br>
-<img src="../img/setting_flow.png" alt="数ステップで環境構築が可能">
+<img src="./img/setting_flow.png" alt="数ステップで環境構築が可能">
 </p>
 
 <h3>多数の言語・フレームワーク・アプリケーションを提供 </h3>
@@ -85,7 +85,7 @@ EOF;
  ニフティクラウドC4SAのキャンバス内にある「キャンバス情報」パネルから、構築した環境の<br>
 ディスク容量、メモリ容量をクリック1つで変更することができます。<br>
 また、ニフティクラウドストレージとの連携も可能となっています。<br>
-<img src="../img/scale_up.png" alt="C4SAはスケールアップとニフティクラウドストレージとの連携が可能">
+<img src="./img/scale_up.png" alt="C4SAはスケールアップとニフティクラウドストレージとの連携が可能">
 
 <a href="https://github.com/NIFTYCloud-C4SA/support/wiki/%E3%83%8B%E3%83%95%E3%83%86%E3%82%A3%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89C4SA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E7%94%A8%E8%AA%9E%E9%9B%86">「キャンバス」とは</a>
 
@@ -104,7 +104,7 @@ Gitとの連携にも対応しており、バージョン管理もしっかり�
 
 <h2>ニフティクラウドC4SAの仕組み</h2>
 <p>
-<img src="../img/c4sa.png" alt="ニフティクラウドC4SAの仕組み図"><br>
+<img src="./img/c4sa.png" alt="ニフティクラウドC4SAの仕組み図"><br>
 　上の図が、ニフティクラウドC4SAの概念図となります。<br>
 ニフティクラウドC4SAはニフティのIaaSであるニフティクラウドを基盤として利用し、<br>
 仮想的なアプリケーション実行環境を構築します。<br>
